@@ -80,4 +80,4 @@ endmodule
 **RESULTS**:
 
 Hence a 4 bit synchronous up counter is implemented correctly.
-](https://github.com/ramsai22/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER.git)https://github.com/ramsai22/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER.git
+
